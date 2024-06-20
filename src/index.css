@@ -1,0 +1,7 @@
+.card{
+    transition: 350ms ease;
+}
+.card:hover{
+    transform: rotate(1deg);
+    transform: scale(1.1);
+}
