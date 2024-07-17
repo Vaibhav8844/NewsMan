@@ -2,7 +2,7 @@
   "name": "news_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://vaibhav8844.github.io/NewsMan",
+  "homepage": "http://Vaibhav8844.github.io/NewsMan",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
